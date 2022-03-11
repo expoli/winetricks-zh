@@ -3,7 +3,7 @@ w_metadata wechat apps \
  publisher="Tencent" \
  year="2019" \
  media="download" \
- file1="WeChat_C1018.exe" \
+ file1="WeChat_for_XP_SP3_To_Vista.exe" \
  installed_exe1="$W_PROGRAMS_X86_WIN/Tencent/WeChat/WeChat.exe" \
  homepage="http://weixin.qq.com/" \
  unattended="no"
